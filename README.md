@@ -21,10 +21,6 @@ Canny
 
 ![image](https://github.com/khm1754/OpenCv_Project/assets/94165276/7b2d93d2-0f7f-4e58-b912-e19e9be2149a)
 
-Sobel Filter
-
-![image](https://github.com/khm1754/OpenCv_Project/assets/94165276/6e5a3c77-a58b-4100-b9cc-891de45c7ec4)
-
 Threshold
 
 ![image](https://github.com/khm1754/OpenCv_Project/assets/94165276/0636fe2e-45a9-480c-b5ab-0e8270fbc217)
